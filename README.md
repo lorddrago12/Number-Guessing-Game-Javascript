@@ -31,8 +31,8 @@ The game generates a secret random number between **1 and 100** and challenges t
 ### Installation
 
 ```bash
-git clone https://github.com/lorddrago12/number-guessing-game.git
-cd number-guessing-game
+git clone https://github.com/lorddrago12/Number-Guessing-Game-Javascript.git
+cd Number-Guessing-Game-Javascript
 ```
 
 Then simply open `index.html` in your browser — no build step required.
