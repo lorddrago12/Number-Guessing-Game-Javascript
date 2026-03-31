@@ -58,8 +58,7 @@ const randomNumber = Math.floor(Math.random() * 100) + 1;
 
 ```
 number-guessing-game/
-├── index.html
-├── game.js
+├──  game.js
 └── README.md
 ```
 
